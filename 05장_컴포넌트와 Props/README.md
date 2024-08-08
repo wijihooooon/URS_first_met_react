@@ -12,12 +12,12 @@
 
 ### 컴포넌트의 역할
 
-- 어떠한 **_속성들을 입력으로 받아서_** 그에 맞는 리액트 **_엘리먼트를 생성하여 리턴 해주는 것_**이다
+- 어떠한 **_속성들을 입력으로 받아서_** 그에 맞는 리액트 **_엘리먼트를 생성하여 리턴 해주는 것_** 이다
 - **_엘리먼트_** : 리액트 앱을 구성하는 가장 작은 빌딩 블록
 
-<div style="display: flex; flex-direction: row; width: 350px">
-  <img src="./images/리액트 컴포넌트 구조.png" >
-  <img src="./images/엘리먼트 예시.png">
+<div style="display: flex; flex-direction: row; width: 500px">
+  <img src="./images/리액트 컴포넌트 구조.png" style="width: 300px">
+  <img src="./images/엘리먼트 예시.png" style="width: 300px">
 </div>
 
 <br />
@@ -52,7 +52,7 @@
 <img src="./images/Props_jsx.png" style="width: 600px">
 </div>
 
-- **_createElement_**를 이용해서 **_자바스크립트 객체를 사용_**하여 전달할 수 있다
+- **_createElement_** 를 이용해서 **_자바스크립트 객체를 사용_**하여 전달할 수 있다
 
 <div style="display: flex; flex-direction: row; justify-content: center; margin: 20px;">
 <img src="./images/Props_createElement.png" style="width: 600px">
