@@ -2,7 +2,7 @@
 - **Shared state**
     - **하위 컴포넌트**가 **공통된 부모 컴포넌트**의 **state**를 공유하며 사용하는 것
     
-    ![Shared State.jpg](/URS_first_met_react/12장%20State%20끌어올리기/images/Shared%20State.jpg)
+    <img src="./images/Shared State.jpg">
     
 - **state 끌어올리기**
     - **하위 컴포넌트**의 **state**를 **공통된 부모 컴포넌트**로 끌어올려서 공유하는 방식
