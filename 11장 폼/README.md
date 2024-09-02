@@ -3,14 +3,14 @@
 - **폼이란?**
     - 사용자로부터 입력을 받기 위해 사용하는 양식
         
-        ![Form.png](/URS_first_met_react/11장%20폼/images/Form.png)
+        <img src="./images/Form.png">
         
     
 - **제어 컴포넌트**
     - 사용자가 입력한 값에 접근하고 제어할 수 있게 해 주는 **컴포넌트**
     - 값이 리액트의 통제를 받는 입력 폼 **엘리먼트**
         
-        ![제어 컴포넌트.jpg](/URS_first_met_react/11장%20폼/images/제어%20컴포넌트.jpg)
+        <img src="./images/제어 컴포넌트.jpg">
         
     - **input type=”text”태그**
         - **한 줄**로 텍스트를 입력 받기 위한 HTML 태그
